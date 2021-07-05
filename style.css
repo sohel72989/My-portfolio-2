@@ -44,6 +44,9 @@ h2{
 }
 .flex-division{
     display: flex;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 
 }
 #box-shadow{
