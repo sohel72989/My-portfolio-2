@@ -1,0 +1,77 @@
+body{
+    font-family:'poppins',sans-serif;
+    margin: 0%;
+}
+.back-image{
+    display: flex;
+    background-image: url("sand-2761053_960_720.jpg"), url("top-banner.png");
+    background-repeat: no-repeat;
+    background-size:cover;   
+}
+.color{
+    color: darkgreen;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(cyan,darkblue);
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.half-width{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+#margin-pic{
+    margin-top: 5%;
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+h2{
+    font-size: 30px;
+}
+.about-travel{
+    display: flex;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.flex-division{
+    display: flex;
+
+}
+#box-shadow{
+    border-left: 7px solid;
+   border-image: linear-gradient(blue,violet);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 20px;
+    padding: 10px 10px 10px;
+    margin: 10px 20px 30px;
+    border-radius: 10px;
+
+    
+}
+#home-box{
+    border-left: 7px solid;
+   border-image: linear-gradient(darkgreen,darkviolet);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 20px;
+    padding: 10px 10px 10px;
+    margin: 10px 20px 30px;
+    border-radius: 10px;
+
+}
+.foot-design{
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+.f-color{
+    color: rgb(223, 46, 14);
+}
